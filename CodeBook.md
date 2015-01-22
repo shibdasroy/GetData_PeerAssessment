@@ -520,13 +520,13 @@ angle(Z,gravityMean)			10	numeric
 		  
 		    [-1,1]	.Angle between the Z-axis and the gravity mean vector (rad)
 		    
-"subject"				1-2	factor
+subject					1-2	factor
 
 		  Subject Identifier
 		  
 		    1...30	.Identifier for the subject of the experimental observation
 		    
-"activity"				6-18	factor
+activity				6-18	factor
 
 		  Activity Name
 		  
